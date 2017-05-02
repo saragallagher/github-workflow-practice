@@ -1,4 +1,4 @@
-# github-workflow-practice
+# Github Workflow Practice
 ## practicing with pull requests and forks
 
 ### This is the 3rd header
